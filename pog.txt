@@ -1,0 +1,3 @@
+Size,BST/Insert,BST/Remove,BST/Search,DLL/Insert at the back,DLL/Insert at the front,DLL/Remove from the back,DLL/Remove from the front,DLL/Search,Hash Table/Insert,Hash Table/Remove,Hash Table/Search,SLL/Insert at the back,SLL/Insert at the front,SLL/Remove from the back,SLL/Remove from the front,SLL/Search,Vector/Insert at the back,Vector/Insert at the front,Vector/Remove from the back,Vector/Remove from the front,Vector/Search
+250,34365,31963,7710,10590,9519,6511,6647,116655,26914,14872,7258,38378,9404,35941,6697,141033,16456,125982,5291,128789,143891
+
